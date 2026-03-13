@@ -1,2 +1,2 @@
 # erp-core-auth!
-Autentificação git ta me fudendo
+Agora vai

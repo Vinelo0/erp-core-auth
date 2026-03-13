@@ -1,2 +1,3 @@
-# erp-core-auth!
-O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA
+# erp-core-auth
+First commit
+>>>>>>> 5515ab54bd55deb5ca0d513da20cfcefaa8e91cf
